@@ -1,2 +1,2 @@
 # SQL
-Here will be scripts nand solutions to work with MS SQL
+Here will be scripts nand solutions to work with MS SQL or Oracle
